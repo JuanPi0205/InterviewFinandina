@@ -1,0 +1,12 @@
+<svg id="Grupo_19153" data-name="Grupo 19153" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="740.202" viewBox="0 0 375 740.202">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.992" y1="0.723" x2="1.099" y2="0.114" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7037ce"/>
+      <stop offset="0.798" stop-color="#e31952"/>
+      <stop offset="1" stop-color="#e7192d"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_16229" data-name="Grupo 16229">
+    <rect id="Rectángulo_2648" data-name="Rectángulo 2648" width="375" height="740.202" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
